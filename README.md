@@ -26,7 +26,7 @@
 - Responsible for providing global technical support for the Outotec ACT system (Advanced Process Control), which entailed the productization of the system, the creation of maintenance guidelines, and the development of the spare parts operations. Additionally, I played an active role in conducting product training sessions for the Outotec ACT system.
 - Field Support Engineer, I was responsible for WIS commissioning support, system updates, and troubleshooting. My job has required good written and oral English skills, as well as readiness to travel at short notice?
 
-[SAP implementation lead](SAPImplementationLead.md)
+[SAP implementation Lead](SAPImplementationLead.md)
 - SAP implementation leader Customer Solutions Center, SAP system implementation at Honeywell's manufacturing facility Nordics. Integrating the SAP system with the factory's operations. DCS project manager tasks include order reception, budgeting, goods ordering and receipt, DCS system manufacturing, and delivery to the EMEA region.
 
 [Project Manager](DCSProjectManager.md)
