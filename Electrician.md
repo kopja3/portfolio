@@ -1,4 +1,4 @@
-# Electrician Portfolio
+# Electrician Specific Work Skills 
 
 ## Complete Electrical Installations in 18 Single-Family Homes and 5 Summer Cottages with 230/400VAC Supply between the years 1981 and 1989
 
