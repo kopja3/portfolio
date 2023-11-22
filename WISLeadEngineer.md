@@ -1,7 +1,7 @@
 # WIS Lead Engineer
 
-In my role as a WIS Lead Engineer, I was deeply involved in the contract manufacturing of Honeywell OEM Cognex WIS camera systems. 
-My responsibilities spanned across applications, project management, and technical support, ensuring that each system was customized and delivered according to the specific needs of our end customers.
+In my role as a WIS Lead Engineer, I was deeply involved in the contract manufacturing of Honeywell OEM Cognex WIS camera systems. My responsibilities spanned across applications, project management, and technical support, ensuring that each system was customized and delivered according to the specific needs of our end customers. 
+Over the course of my tenure, I oversaw the manufacturing of a total of 220 systems across two locations, demonstrating a strong capacity for managing large-scale production operations
 
 ## Key Responsibilities:
 
