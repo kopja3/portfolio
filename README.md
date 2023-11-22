@@ -1,7 +1,8 @@
 [PhD publications](PhDPublications.md)
-- Binarization method for text printed on variably curved surfaces of pharmaceutical packages.
-- Deep Learning Machine Vision, high-precision recognition of pharmaceutical packaging markings.
-- Post-processing of deep learning methods.
+Peer-Reviewed Publications Written During My Doctoral Research
+- Binarization method for text printed on variably curved surfaces of pharmaceutical packages. Published at the Electronic Imaging Conference 2021.
+- Deep Learning Machine Vision, high-precision recognition of pharmaceutical packaging markings (Peer Review in Progress). Published at the 2023 F1000 Forum.
+- Post-processing of deep learning methods (Not Yet Published).
 
 [MachineVisionR&D](MachineVisionR&D.md)
 - Research and development tasks on computer vision-based identification of medication packages located partially or completely stacked on top of each other in the Fixu pharmacy dispensing machine.
@@ -24,10 +25,12 @@
 
 [ACTTechicalSupportEngineer](ACTTechicalSupportEngineer.md)
 - Responsible for providing global technical support for the Outotec ACT system (Advanced Process Control), which entailed the productization of the system, the creation of maintenance guidelines, and the development of the spare parts operations. Additionally, I played an active role in conducting product training sessions for the Outotec ACT system.
-- Field Support Engineer, I was responsible for WIS commissioning support, system updates, and troubleshooting. My job has required good written and oral English skills, as well as readiness to travel at short notice?
+
+[WISTechicalSupportEngineer](WISTechicalSupportEngineer.md)
+- Responsible for Measurex WIS system commissioning support, system updates, and troubleshooting. My job has required good written and oral English skills, as well as readiness to travel at short notice?
 
 [SAPImplementationLead](SAPImplementationLead.md)
-- SAP implementation leader Customer Solutions Center, SAP system implementation at Honeywell's manufacturing facility Nordics. Integrating the SAP system with the factory's operations. DCS project manager tasks include order reception, budgeting, goods ordering and receipt, DCS system manufacturing, and delivery to the EMEA region.
+- SAP Implementation Lead Customer Solutions Center, SAP system implementation at Honeywell's manufacturing facility Nordics. Integrating the SAP system with the factory's operations. DCS project manager tasks include order reception, budgeting, goods ordering and receipt, DCS system manufacturing, and delivery to the EMEA region.
 
 [DCSProjectManager](DCSProjectManager.md)
 - DCS project manager, purchase orders reception, budgeting, goods ordering and receipt, DCS system manufacturing, and delivery to the EMEA region.
