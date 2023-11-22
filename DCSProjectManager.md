@@ -18,6 +18,8 @@ As a DCS Project Manager, I played a pivotal role in overseeing the entire lifec
 - **DCS System Manufacturing:**
   - Managed the manufacturing process of DCS systems.
   - Coordinated with engineering and production teams to ensure systems met technical specifications and quality standards.
+  - Personally assembled order-specific setups in workstations and servers.
+  - Conducted I/O testing of DCS central control cabinets, verifying system functionality and compliance.
 
 - **Delivery to the EMEA Region:**
   - Oversaw the delivery of DCS systems to clients across the EMEA region.
