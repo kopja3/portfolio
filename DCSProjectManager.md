@@ -1,5 +1,4 @@
 # DCS Project Manager Honeywell PKS 
-
 As a DCS Project Manager, I played a pivotal role in overseeing the entire lifecycle of DCS system projects, including the reception of purchase orders, budget management, ordering and receiving goods, manufacturing of DCS systems, and their delivery across the EMEA region. Throughout my tenure, I successfully managed 30 of my own projects and personally handled the configuration of computers for 50 systems, as well as conducting I/O testing for several PKS system cabinets.
 
 ## Key Responsibilities:
