@@ -38,7 +38,8 @@
 [Delivery Manager](taidot.md#delivery-manager)
 - I was responsible for the comprehensive delivery of WIS systems, from defining the System Descriptions with customers, acting as an expert in the procurement department, providing global sales support, leading electrical and mechanical design teams, integrating customer systems, conducting operational testing, and carrying out FAT (Factory Acceptance Testing) with end customers.
 
-[Electrician](taidot.md#electrician)
+[Electrician](electrician.md)
+
 - Installation team senior member, manufacturing, testing, and commissioning of Honeywell (formerly Altim Control) automation systems. I was in charge of manufacturing highly demanding electronic control systems for use in special applications.
 - Alcont DCS power supply cabinets, cross connection cabinets, and electronic cabinets mechanical and electrical installations, with verification inspections, field installations, Oulu, Pietarsaari, Sunila, Äänekoski, Kaskinen.
 - Electrical installations for electric heating houses, electrical work for electric boilers, electric saunas, and motor electrification.
