@@ -1,6 +1,6 @@
 # Field Support Engineer Portfolio
 
-## WIS Commissioning Support, System Updates, and Troubleshooting (1990 - 2023)
+## WIS Commissioning Support, System Updates, and Troubleshooting (1995 - 1996)
 
 ### Technical Installations and Tuning:
 - Commissioning and supporting Web Inspection Systems (WIS).
@@ -21,8 +21,10 @@
   - France: Paris
   - Portugal: Portucell
   - Sweden: Gruvön
-
----
+  - 
+### Additional Roles and Responsibilities:
+- Represented Measurex Roibox WIS at APV exhibitions in Graz and SPCI exhibitions in Stockholm.
+- Conducted sample measurements in the laboratory.
 
 This extensive experience as a Field Support Engineer, showcasing my technical skills in system commissioning, maintenance, and troubleshooting, both in Finland and internationally. 
 My expertise spans across various hardware components and software systems, reflecting my ability to adapt and excel in diverse working environments.
