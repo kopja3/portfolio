@@ -26,16 +26,16 @@
 - Responsible for providing global technical support for the Outotec ACT system (Advanced Process Control), which entailed the productization of the system, the creation of maintenance guidelines, and the development of the spare parts operations. Additionally, I played an active role in conducting product training sessions for the Outotec ACT system.
 - Field Support Engineer, I was responsible for WIS commissioning support, system updates, and troubleshooting. My job has required good written and oral English skills, as well as readiness to travel at short notice?
 
-[SAP implementation Lead](SAPImplementationLead.md)
+[SAP_Implementation_Lead](SAP_Implementation_Lead.md)
 - SAP implementation leader Customer Solutions Center, SAP system implementation at Honeywell's manufacturing facility Nordics. Integrating the SAP system with the factory's operations. DCS project manager tasks include order reception, budgeting, goods ordering and receipt, DCS system manufacturing, and delivery to the EMEA region.
 
-[Project Manager](DCSProjectManager.md)
+[DCS_Project_Manager](DCS_Project_Manager.md)
 - DCS project manager, purchase orders reception, budgeting, goods ordering and receipt, DCS system manufacturing, and delivery to the EMEA region.
 
-[Lead Engineer](WISLeadEngineer.md)
+[WIS_Lead_Engineer](WIS_Lead_Engineer.md)
 - Honeywell OEM Cognex WIS camera systems contract manufacturing for customized systems to end customers. I was responsible for applications, project management, and technical support. Computer assemblies and software were configured according to customer specifications. The systems were set up and tested, and the functionality of optical configurations was verified. Before shipment, FAT (Factory Acceptance Testing) tests were conducted with the end customer.
 
-[WIS Delivery Manager](WIS Delivery Manager.md)
+[WIS_Delivery_Manager](WIS_Delivery_Manager.md)
 - I was responsible for the comprehensive delivery of WIS systems, from defining the System Descriptions with customers, acting as an expert in the procurement department, providing global sales support, leading electrical and mechanical design teams, integrating customer systems, conducting operational testing, and carrying out FAT (Factory Acceptance Testing) with end customers.
 
 [Electrician](Electrician.md)
