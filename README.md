@@ -19,7 +19,7 @@
 [ACTTrainer](ACTTrainer.md)
 - Active role in conducting product training sessions for the Outotec ACT system.
 
-[WISElectricalDesigner](WISElectricalDesigner.md)
+[WISElectricalDesigner](WISelectricalDesigner.md)
 - Designed and installed the electrification of a product development laboratory and conducted verification checks.
 
 [ACTTechicalSupportEngineer](ACTTechicalSupportEngineer.md)
