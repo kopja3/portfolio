@@ -15,9 +15,7 @@ As the SAP Implementation Lead at Honeywell's Customer Solutions Center, my role
 - **DCS Project Management and Manufacturing Oversight:**
   - Managed DCS projects within the facility, including order reception, budgeting, goods ordering and receipt.
   - Oversaw the manufacturing process of DCS systems, ensuring adherence to quality standards and customer requirements.
-  - Personally assembled order-specific setups in workstations and servers.
-  - Conducted I/O testing of DCS central control cabinets, verifying system functionality and compliance.
-
+  
 - **Order Reception and Budgeting:**
   - Managed the reception of orders and oversaw the budgeting process for DCS projects.
   - Ensured financial resources were allocated efficiently and aligned with project goals.
