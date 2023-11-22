@@ -1,20 +1,17 @@
 # Electrician Portfolio
 
-## 230/400VAC Electrical Installation
+## Complete Electrical Installations in 18 Single-Family Homes and 5 Summer Cottages with 230/400VAC Supply between the years 1981 and 1989
 
 - **Interior Wiring Installations:**
-  - Installation of electrical panels, internal house power distribution, branch circuits, electrical outlets, light fixtures, kitchen appliances, laundry room fixtures, sauna equipment, water heaters, heating radiators, storage heaters, underfloor heating systems, electric ovens, and electric stoves.
+  - Installation of single-family homes Main Electrical Panel and Subpanels, Internal House Power Distribution, Branch Circuits, Electrical Outlets, Light Fixtures, Kitchen, Laundry Room, Sauna, Water Heater,      Heating Radiators, Storage Heaters, Underfloor Heating, Electric Oven, Electric Stove..
 
 - **Cabling and Conduit Work:**
-  - Laying cables and installing conduits.
-  - Determining cross-sectional areas and selecting appropriate enclosure ratings for fixtures.
-
-- **Furniture Installation:**
+  - Wiring, Conduit Installation, and Cabling for Consumption Groups. Determining Conductor Cross-Sections, Fuse Sizes, and Trip Times, Implementing Ground Fault Protection, and Selecting Appropriate Enclosure     Ratings for Electrical Fixtures
   - Continuously inspecting the work and materials used.
   - Conducting verification inspections at the end of the job.
-  - Grounding work and conducting continuity and insulation resistance measurements.
+  - Final Verification Inspections at the End of the Job, Short-Circuit Current Measurements, Ground Fault Protection Testing, Grounding Verification with Continuity Measurements, Insulation Resistance             Measurements
 
-## Honeywell DCS Automation System Electronics Cabinet Manufacturing
+## Honeywell DCS Automation System Electronics Cabinet Manufacturing between the years 1990 and 1993
 
 - Manufacturing electronic cabinets for Honeywell DCS automation systems.
 
@@ -35,7 +32,7 @@
 
   - Conducting I/O testing at the terminal.
 
-## Automation System Field Installations
+## Automation System Field Installations between the years 1990 and 1993
 
 - **Electronic Systems Installation:**
   - Installing electronics, cross-connecting components, and power supply cabinets.
