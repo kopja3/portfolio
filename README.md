@@ -35,7 +35,7 @@
 [Lead Engineer](WISLeadEngineer.md)
 - Honeywell OEM Cognex WIS camera systems contract manufacturing for customized systems to end customers. I was responsible for applications, project management, and technical support. Computer assemblies and software were configured according to customer specifications. The systems were set up and tested, and the functionality of optical configurations was verified. Before shipment, FAT (Factory Acceptance Testing) tests were conducted with the end customer.
 
-[Delivery Manager](WISDeliveryManager.md)
+[WIS Delivery Manager](WISDeliveryManager.md)
 - I was responsible for the comprehensive delivery of WIS systems, from defining the System Descriptions with customers, acting as an expert in the procurement department, providing global sales support, leading electrical and mechanical design teams, integrating customer systems, conducting operational testing, and carrying out FAT (Factory Acceptance Testing) with end customers.
 
 [Electrician](Electrician.md)
