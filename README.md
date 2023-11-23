@@ -26,7 +26,7 @@ Peer-Reviewed Publications Written During My Doctoral Research
 [ACT Techical Support Engineer](ACTTechicalSupportEngineer.md)
 - Responsible for providing global technical support for the Outotec ACT system (Advanced Process Control), which entailed the productization of the system, the creation of maintenance guidelines, and the development of the spare parts operations. Additionally, I played an active role in conducting product training sessions for the Outotec ACT system.
 
-[WIS Techical Support Engineer](WISTechicalSupportEngineer.md)
+[WIS Field Support Engineer](WISFieldSupportEngineer.md)
 - Responsible for Measurex WIS system commissioning support, system updates, and troubleshooting. My job has required good written and oral English skills, as well as readiness to travel at short notice?
 
 [SAP Implementation Lead](SAPImplementationLead.md)
