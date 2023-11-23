@@ -13,9 +13,7 @@ Peer-Reviewed Publications Written During My Doctoral Research
 
 [ProjectModelDevelopmentProjectManager](ProjectModelDevelopmentProjectManager.md)
 - Development tasks of the elemental analyzer turnkey project model resulted in the development of a tool for calculating installation costs in turnkey projects.
-
-[Project Model Develpoment Consultant](ProjectModelDevelpomentConsultant.md)
-- Training and Development: Conducted user training for proposal managers, sales managers, and account managers on the use of the calculator tool, receiving positive feedback.
+- Training and Development: I provided user training for proposal managers, sales managers, and account managers on the utilization of the calculator tool, receiving feedback such as "going on the top trainings in Outotec all the time."
 
 [ACT Trainer](ACTTrainer.md)
 - Active role in conducting product training sessions for the Outotec ACT system.
