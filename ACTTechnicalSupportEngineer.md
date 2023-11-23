@@ -1,8 +1,7 @@
-# Technical Support Specialist
-
+# Outotec ACT Technical Support Engineer
 ## Responsibilities
 
-- Provided technical support for the ACT high-level process control system.
+- Provided technical support for the Outotec ACT system (Advanced Process Control).
 - Conducted maintenance for service contract customers.
 - Managed software updates for the system.
 - Performed annual maintenance for the systems installed in the concentrator.
