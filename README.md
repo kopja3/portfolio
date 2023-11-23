@@ -4,7 +4,7 @@ Peer-Reviewed Publications Written During My Doctoral Research
 - Deep Learning Machine Vision, high-precision recognition of pharmaceutical packaging markings (Peer Review in Progress). Published at the 2023 F1000 Forum.
 - Post-processing of deep learning methods (Not Yet Published).
 
-[Machine Vision R&D](MachineVisionR&D.md)
+[Machine Vision R&D](MachineVisionRD.md)
 - Research and development tasks on computer vision-based identification of medication packages located partially or completely stacked on top of each other in the Fixu pharmacy dispensing machine.
 
 [Sensor Development Specialist](SensorDevelopmentSpecialist.md)
