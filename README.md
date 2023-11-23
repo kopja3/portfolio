@@ -23,7 +23,7 @@ Peer-Reviewed Publications Written During My Doctoral Research
 [WIS Electrical Designer](WISelectricalDesigner.md)
 - Designed and installed the electrification of a product development laboratory and conducted verification checks.
 
-[ACT Techical Support Engineer](ACTTechicalSupportEngineer.md)
+[ACT Techical Support Engineer](ACTTechnicalSupportEngineer.md)
 - Responsible for providing global technical support for the Outotec ACT system (Advanced Process Control), which entailed the productization of the system, the creation of maintenance guidelines, and the development of the spare parts operations. Additionally, I played an active role in conducting product training sessions for the Outotec ACT system.
 
 [WIS Field Support Engineer](WISFieldSupportEngineer.md)
