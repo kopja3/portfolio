@@ -11,7 +11,7 @@ Peer-Reviewed Publications Written During My Doctoral Research
 - Development of a vibration measurement sensor using new technology.
 - Developed the installation method for a LevelSense tomography analyzer and was responsible for the electrical design and product development of a new technology carbon content analyzer.
 
-[Elemental Analyzer Project Manager](ElementalAnalyzerProjectManager.md)
+[ProjectModelDevelopmentProjectManager](ProjectModelDevelopmentProjectManager.md)
 - Development tasks of the elemental analyzer turnkey project model resulted in the development of a tool for calculating installation costs in turnkey projects.
 
 [Project Model Develpoment Consultant](ProjectModelDevelpomentConsultant.md)
