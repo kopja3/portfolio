@@ -7,7 +7,7 @@ Peer-Reviewed Publications Written During My Doctoral Research
 [Machine Vision R&D](MachineVisionR&D.md)
 - Research and development tasks on computer vision-based identification of medication packages located partially or completely stacked on top of each other in the Fixu pharmacy dispensing machine.
 
-[Tomography Sensor Development Specialist](TomographySensorDevelopomentSpecialist.md)
+[Sensor Development Specialist](SensorDevelopomentSpecialist.md)
 - Development of a vibration measurement sensor using new technology.
 - Developed the installation method for a LevelSense tomography analyzer and was responsible for the electrical design and product development of a new technology carbon content analyzer.
 
