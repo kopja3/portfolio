@@ -1,3 +1,8 @@
+My Research Skills: Combining Scholarly Insight with Industrial Machine Vision Expertise
+
+My research expertise is a fusion of the ability to effectively review literature related to my field, coupled with the application of the latest methods. This is complemented by my extensive hands-on experience with industrial machine vision systems. This unique combination enables me to integrate state-of-the-art machine vision techniques with a profound understanding of the critical properties of the objects under observation, which is essential in addressing complex research problems.
+
+
 [PhD publications](PhDPublications.md)
 Peer-Reviewed Publications Written During My Doctoral Research
 - Binarization method for text printed on variably curved surfaces of pharmaceutical packages. Published at the Electronic Imaging Conference 2021.
