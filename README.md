@@ -2,7 +2,7 @@ Welcome to my portfolio!
 I am Jarmo Koponen, and I am currently working as a doctoral reseacher at University of Eastern Finland. 
 I am proud to share with you a few of my most significant achievements related to the topic of my dissertation and machine vision methods.
 
-I take pride in being the lead author of three peer-reviewed publications centered around the subject of my dissertation. In these publications, I introduced a novel method to address previously unsolved problems, resulting in significant advancements in the field. These accomplishments are the outcomes of extensive and dedicated work, duly recognized by the research community.
+I take pride in being the lead author of three peer-reviewed publications (PhDPublications.md) centered around the subject of my dissertation. In these publications, I introduced a novel method to address previously unsolved problems, resulting in significant advancements in the field. These accomplishments are the outcomes of extensive and dedicated work, duly recognized by the research community.
 
 Furthermore, through my involvement in the ERDF-supported Regional Council of Pohjois-Savo DigiCenterNS project, I developed an innovative machine vision method for accurately identifying the sizes and positions of holes drilled in rock walls. This groundbreaking approach has enhanced efficiency and precision in the field of rock engineering, showcasing my capacity to apply my machine vision expertise to practical challenges.
 
@@ -18,7 +18,7 @@ My Research Skills: Combining Scholarly Insight with Industrial Machine Vision E
 My research expertise is a fusion of the ability to effectively review literature related to my field, coupled with the application of the latest methods. This is complemented by my extensive hands-on experience with industrial machine vision systems. This unique combination enables me to integrate state-of-the-art machine vision techniques with a profound understanding of the critical properties of the objects under observation, which is essential in addressing complex research problems.
 
 
-[PhD publications](PhDPublications.md)
+[PhD publications]
 Peer-Reviewed Publications Written During My Doctoral Research
 - Binarization method for text printed on variably curved surfaces of pharmaceutical packages. Published at the Electronic Imaging Conference 2021.
 - Deep Learning Machine Vision, high-precision recognition of pharmaceutical packaging markings (Peer Review in Progress). Published at the 2023 F1000 Forum.
