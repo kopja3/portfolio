@@ -2,7 +2,7 @@ Welcome to my portfolio!
 I am Jarmo Koponen, and I am currently working as a doctoral reseacher at University of Eastern Finland. 
 I am proud to share with you a few of my most significant achievements related to the topic of my dissertation and machine vision methods.
 
-I take pride in being the lead author of three peer-reviewed publications (PhDPublications.md) centered around the subject of my dissertation. In these publications, I introduced a novel method to address previously unsolved problems, resulting in significant advancements in the field. These accomplishments are the outcomes of extensive and dedicated work, duly recognized by the research community.
+I take pride in being the lead author of three peer-reviewed publications (PhDPublications.md) centered around the subject of my dissertation[Click here to view the subject of my dissertation](assets/dissertation.jpg)  In these publications, I introduced a novel method to address previously unsolved problems, resulting in significant advancements in the field. These accomplishments are the outcomes of extensive and dedicated work, duly recognized by the research community.
 
 Furthermore, through my involvement in the ERDF-supported Regional Council of Pohjois-Savo DigiCenterNS project, I developed an innovative machine vision method [Click here to view the method in action](assets/BoreHoleDetection2021KoponenJarmo2021.jpg) for accurately identifying the sizes and positions of holes drilled in rock walls. This groundbreaking approach has enhanced efficiency and precision in the field of rock engineering, showcasing my capacity to apply my machine vision expertise to practical challenges.
 
