@@ -1,22 +1,14 @@
-Welcome to my portfolio!
-I am Jarmo Koponen, and I am currently working as a doctoral reseacher at University of Eastern Finland. 
-I am proud to share with you a few of my most significant achievements related to the topic of my dissertation and machine vision methods.
+Welcome to my portfolio! I am a doctoral researcher at the University of Eastern Finland, here showcasing my most significant achievements in machine vision methods and the topic of my dissertation.
 
-I take pride in being the lead author of three peer-reviewed publications (PhDPublications.md) centered around the subject of my dissertation[Click here to view the subject of my dissertation](assets/dissertation2.jpg)  In these publications, I introduced a novel method to address previously unsolved problems, resulting in significant advancements in the field. These accomplishments are the outcomes of extensive and dedicated work, duly recognized by the research community.
+Written three high-quality publications,serving as the lead author for each (PhDPublications.md) centered around the subject of my dissertation.[Click here to view the subject of my dissertation](assets/dissertation2.jpg) In publications, I presented novel methods I developed to solve a previously unsolved problem, leading to significant advances in the field. These methods are the result of extensive and dedicated work and have been duly recognized by the research community.  
 
-Furthermore, through my involvement in the ERDF-supported Regional Council of Pohjois-Savo DigiCenterNS project, I developed an innovative machine vision method [Click here to view the method in action](assets/BoreHoleDetection2021KoponenJarmo2021.jpg) for accurately identifying the sizes and positions of holes drilled in rock walls. This groundbreaking approach has enhanced efficiency and precision in the field of rock engineering, showcasing my capacity to apply my machine vision expertise to practical challenges.
+Through my involvement in the ERDF-supported Regional Council of Pohjois-Savo DigiCenterNS project,I developed a groundbreaking machine vision method [Click here to view the method in action](assets/BoreHoleDetection2021KoponenJarmo2021.jpg) to accurately identify the size and location of holes drilled in rock walls. This powerful and precise approach,developed specifically for this application,demonstrates my ability to apply machine vision expertise to practical challenges.
 
-In terms of education, I have completed a master's degree in software engineering, specializing in machine vision, deep learning, and pattern recognition. I received a diploma with commendable grades. Additionally, I have earned a Bachelor of Science degree in software engineering with a minor in electrical and automation engineering. My background as an automation engineer and electrician has provided me with a solid technical foundation that I have been able to apply in my research.
+Education: Master of Science in Software Engineering, with a specialization in Machine Vision, Deep Learning, and Pattern Recognition. I graduated with a diploma, achieving commendable grades. I also hold a Bachelor of Science degree in Software Engineering, complemented by a minor in Electrical and Automation Engineering. My experience as an automation engineer and electrician has endowed me with a robust technical foundation, which has been instrumental in advancing my research.
 
-I am passionate about my research work and motivated to continue solving new challenges in machine vision, pattern recognition, and deep learning. I am open to connections and opportunities that can further enhance my skills and contribute value to the field's development.
+Research Interests: Deeply passionate about research in machine vision, pattern recognition, and deep learning, driven to tackle new challenges in these areas. I welcome connections and opportunities that can not only augment my skill set but also contribute significantly to the advancement of the field.
 
-Thank you for reviewing my portfolio, and I look forward to future opportunities and collaborations!
-
-
-My Research Skills: Combining Scholarly Insight with Industrial Machine Vision Expertise
-
-My research expertise is a fusion of the ability to effectively review literature related to my field, coupled with the application of the latest methods. This is complemented by my extensive hands-on experience with industrial machine vision systems. This unique combination enables me to integrate state-of-the-art machine vision techniques with a profound understanding of the critical properties of the objects under observation, which is essential in addressing complex research problems.
-
+Research Expertise: Merging Theory and Practice in Machine Vision. My proficiency lies in effectively interpreting academic literature and applying the latest computer vision techniques in practical scenarios. With extensive experience in industrial machine vision systems and a profound understanding of the key characteristics of the study objects, I am well-equipped to address and solve complex research challenges in this field.
 
 [PhD publications]
 Peer-Reviewed Publications Written During My Doctoral Research
@@ -28,7 +20,7 @@ Peer-Reviewed Publications Written During My Doctoral Research
 - Research and development tasks on computer vision-based identification of medication packages located partially or completely stacked on top of each other in the Fixu pharmacy dispensing machine.
 
 [Sensor Development Specialist](SensorDevelopmentSpecialist.md)
-- Development of a vibration measurement sensor using new technology.
+- Development of a vibration measurement sensor using novel technology.
 - Developed the installation method for a LevelSense tomography analyzer and was responsible for the electrical design and product development of a new technology carbon content analyzer.
 
 [ProjectModelDevelopmentProjectManager](ProjectModelDevelopmentProjectManager.md)
@@ -65,3 +57,5 @@ Peer-Reviewed Publications Written During My Doctoral Research
 - Alcont DCS power supply cabinets, cross connection cabinets, and electronic cabinets mechanical and electrical installations, with verification inspections, field installations, Oulu, Pietarsaari, Sunila, Äänekoski, Kaskinen.
 - Electrical installations for electric heating houses, electrical work for electric boilers, electric saunas, and motor electrification.
 - Installation of electric heating systems in detached houses, electrical work during the construction of new detached houses. Electrical work for apartment buildings and industrial facilities.
+
+Thanks for checking out my portfolio! I look forward to future opportunities and collaborations that harness our combined strengths and innovations.
