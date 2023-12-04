@@ -14,6 +14,7 @@ Research Expertise: Merging Theory and Practice in Machine Vision. My proficienc
 [PhD publications]
 Peer-Reviewed Publications Written During My Doctoral Research
 - Binarization method for text printed on variably curved surfaces of pharmaceutical packages. Published at the Electronic Imaging Conference 2021.
+- A Completely New Paradigm: Product Code Recognition Using Machine Vision – A Systematic Review of Recent Advances in Methods, Published by F1000, 2022
 - Deep Learning Machine Vision, high-precision recognition of pharmaceutical packaging markings (Peer Review in Progress). Published at the 2023 F1000 Forum.
 - Post-processing of deep learning methods (Not Yet Published).
 
