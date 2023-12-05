@@ -1,0 +1,23 @@
+## Master of Software Engineering, Machine Vision Specialist
+
+### Educational Background:
+
+#### Master of Software Engineering with a specialization in Machine Vision. This advanced degree has equipped me with a deep understanding of the intricacies and applications of machine vision technologies in various industries.
+
+### Professional Experience:
+
+#### Extensive research and product development experience in the field of machine vision technology, demonstrating a keen ability to apply theoretical knowledge to practical and innovative solutions.
+####  Prior to embarking on my own dissertation topic, I have been instrumental in creating tailored solutions for industrial needs. My work has spanned various sectors, showcasing versatility and adaptability.
+
+### Industry Contributions:
+
+####  In the Mining Industry, developed a novel machine vision method for the identification of drill holes. The method is proof of my ability to accurately and innovatively target and solve industry-specific challenges.
+####  In the Pharmaceutical Automation Industry, developed a method for the pharmaceutical automation industry to accurately measure pharmaceutical packages on a rotary table, including packages positioned completely on top of each other.
+
+
+### Technical Proficiency:
+
+#### Deep understanding and practical application of electrical engineering, evidenced by an S2 electrical qualification accredited by Tukes.
+#### Proficient in mechanics, which complements my skills in machine vision and software engineering, allowing for a holistic approach to product development.
+#### Expertise in software design, with a focus on creating robust, efficient, and user-friendly applications tailored to specific industry needs.
+#### Application-specific expertise, enabling the development of customized solutions that address unique challenges in different sectors.
