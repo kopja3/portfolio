@@ -13,6 +13,3 @@
 #### Instructor for Exercises in Advanced-Level Artificial Intelligence Course's  2023 
 #### Supervisor for Master’s Theses in 2021 and 2022, and Bachelor’s Thesis in 2022 and 2023. 
 #### Instructor and Teacher at the University of Eastern Finland, 1 credit in the PhD curriculum 2021
-
-### In industry
-#### Train the Trainer Certificate Outotec Oy 2015, 3 credit points    
