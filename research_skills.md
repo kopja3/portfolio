@@ -13,11 +13,11 @@
 
 #### In the Mining Industry
 #### I developed a novel machine vision method for the identification of drill holes. The method is proof of my ability to accurately and innovatively target and solve industry-specific challenges.
-[Click here to see the drill hole identification method in action.](portfolio/assets/BoreHoleDetection2021KoponenJarmo2021.jpg)
+[Click here to see the drill hole identification method in action.](assets/BoreHoleDetection2021KoponenJarmo2021.jpg)
 
 #### In the Pharmaceutical Automation Industry
 #### I developed a method for the pharmaceutical automation industry to accurately measure pharmaceutical packages on a rotary table, including packages positioned completely on top of each other.
-[Click here to see the pharmaceutical package measurement method in action.](portfolio/assets/MachineVisionProGradu.jpg)
+[Click here to see the pharmaceutical package measurement method in action.](assets/MachineVisionProGradu.jpg)
 
 
 
