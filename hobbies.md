@@ -23,7 +23,7 @@ Apart from photography, I cherish spending time in the great outdoors. These act
 
 Staying active is essential to me. Here's a glimpse of some of my favorite physical activities:
 
-6. Morning run to kickstart the day with energy ![Morning Run](/assets/jkrunner.jpg)
+6. Morning run to kickstart the day with energy ![Morning Run](/assets/jkrunner.JPG)
 
 7. Running Progress: A snapshot of my running journey from 2020 to 2021 ![Running Progress](/assets/runningindex.jpg)
 
