@@ -5,7 +5,7 @@ In my free time, I have a deep passion for various outdoor activities and hobbie
 #### Photography: A Lifelong Passion
 I've been passionate about photography since my youth. It all began with an analog film camera, and over the years, I've transitioned to using a quadcopter camera and various digital cameras. Photography is not just my work; it's an integral part of my life, allowing me to capture the beauty of the world around me. Here are a few snapshots:
 
-1. ![Quadcopter Photography](/assets/DJI_pilot.jpg)
+1. ![Quadcopter Photography](/assets/DJI_pilot.jpeg)
 
 2. ![Summer Landscape](/assets/landscapesummer.jpg)
 
