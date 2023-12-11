@@ -16,7 +16,7 @@ Apart from photography, I cherish spending time in the great outdoors. These act
 
 4. Skiing down the slopes in the heart of winter ![Skiing Adventure](/assets/skiing.jpg)
 
-5. Connecting with Nature: Enjoying the beauty of the great outdoors by the water ![Nature](/assets/nature.jpg)
+5. Connecting with Nature: Enjoying the beauty of the great outdoors by the water ![Nature](/assets/natures.jpg)
 
 
 #### Staying Active
