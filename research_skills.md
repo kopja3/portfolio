@@ -31,4 +31,4 @@
 #### Advanced Machine Vision Course Certifications
 
 ####  I have completed advanced courses in machine vision technologies, including Optical Character Recognition, OpenCV libraries, and AI technologies from NVIDIA. These certifications underscore my advanced skills and knowledge in the field of machine vision.
-[Click here to see more details of these certificates](assets/Computer_Vision_Training_Certificates.pdf) 
+[Click here to see for more details on these certifications](assets/Computer_Vision_Training_Certificates.pdf) 
