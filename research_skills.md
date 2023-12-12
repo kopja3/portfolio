@@ -27,3 +27,7 @@
 #### Proficient in mechanics, which complements my skills in machine vision and software engineering, allowing for a holistic approach to product development.
 #### Expertise in software design, with a focus on creating robust, efficient, and user-friendly applications tailored to specific industry needs.
 #### Application-specific expertise, enabling the development of customized solutions that address unique challenges in different sectors.
+
+### Advanced Machine Vision Course Certifications
+
+####  I have completed advanced courses in machine vision technologies, including Optical Character Recognition, OpenCV libraries, and AI technologies from NVIDIA. These certifications underscore my advanced skills and knowledge in the field of machine vision. For more details on these certifications, click here. 
