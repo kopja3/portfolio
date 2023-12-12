@@ -28,6 +28,7 @@
 #### Expertise in software design, with a focus on creating robust, efficient, and user-friendly applications tailored to specific industry needs.
 #### Application-specific expertise, enabling the development of customized solutions that address unique challenges in different sectors.
 
-### Advanced Machine Vision Course Certifications
+#### Advanced Machine Vision Course Certifications
 
-####  I have completed advanced courses in machine vision technologies, including Optical Character Recognition, OpenCV libraries, and AI technologies from NVIDIA. These certifications underscore my advanced skills and knowledge in the field of machine vision. For more details on these certifications, click here. 
+####  I have completed advanced courses in machine vision technologies, including Optical Character Recognition, OpenCV libraries, and AI technologies from NVIDIA. These certifications underscore my advanced skills and knowledge in the field of machine vision.
+[Click here to see more details of these certificates](assets/Computer_Vision_Training_Certificates.pdf) 
